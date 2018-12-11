@@ -15,5 +15,5 @@ HTML
 CSS
 JavaScript
 
-Framework: 
+Frontend Framework: 
 Bootstrap
